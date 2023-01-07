@@ -1,3 +1,1 @@
-# Deep-Learning-based-AnIsotropic-diffusion
-
-Predicting gradient sensitivity in AnIsotropic Diffusion using Deep Networks
+Due to large size, pretrained HED pytorch cannot be uploaded in this repository. It is uploaded in google drive. Folder - Thesis data.
